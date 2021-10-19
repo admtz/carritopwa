@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1634626019244,
+  "index": "https://admtz.github.io/carritopwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://admtz.github.io/carritopwa/index.html",
+        "https://admtz.github.io/carritopwa/main.362e630f28d141dd2e0a.js",
+        "https://admtz.github.io/carritopwa/manifest.webmanifest",
+        "https://admtz.github.io/carritopwa/polyfills.c6a2c061dcf0143f4989.js",
+        "https://admtz.github.io/carritopwa/runtime.4d92569d8e7453d1a267.js",
+        "https://admtz.github.io/carritopwa/styles.11cf6b3a7e166a1bde8d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://admtz.github.io/carritopwa/assets/icons/icon-128x128.png",
+        "https://admtz.github.io/carritopwa/assets/icons/icon-144x144.png",
+        "https://admtz.github.io/carritopwa/assets/icons/icon-152x152.png",
+        "https://admtz.github.io/carritopwa/assets/icons/icon-192x192.png",
+        "https://admtz.github.io/carritopwa/assets/icons/icon-384x384.png",
+        "https://admtz.github.io/carritopwa/assets/icons/icon-512x512.png",
+        "https://admtz.github.io/carritopwa/assets/icons/icon-72x72.png",
+        "https://admtz.github.io/carritopwa/assets/icons/icon-96x96.png",
+        "https://admtz.github.io/carritopwa/assets/shipping.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://admtz.github.io/carritopwa/assets/icons/icon-128x128.png": "96af72e0d5aa34bcd97d2df92a2e18f58ff98205",
+    "https://admtz.github.io/carritopwa/assets/icons/icon-144x144.png": "ebb0da3c04ed1f3a093ab878495a5bb89bcdf048",
+    "https://admtz.github.io/carritopwa/assets/icons/icon-152x152.png": "2a9dba256305a301544f412b77628b0390bbe2f0",
+    "https://admtz.github.io/carritopwa/assets/icons/icon-192x192.png": "1dcf966ff4f057f01a5a265082a77d3387dda9b5",
+    "https://admtz.github.io/carritopwa/assets/icons/icon-384x384.png": "ba88e6b05f15df02447883cb416d240df33f22b0",
+    "https://admtz.github.io/carritopwa/assets/icons/icon-512x512.png": "8fcec7f8e4a575d71979eacfb82ec1413f01ffd4",
+    "https://admtz.github.io/carritopwa/assets/icons/icon-72x72.png": "e89a6a58bf623993e6123186ea07d699a939421f",
+    "https://admtz.github.io/carritopwa/assets/icons/icon-96x96.png": "180c2fa67ed41a657b9335ecfa4d5b8c9754f578",
+    "https://admtz.github.io/carritopwa/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
+    "https://admtz.github.io/carritopwa/index.html": "855f8d97feda1574de13a104bb45f1c2f805977a",
+    "https://admtz.github.io/carritopwa/main.362e630f28d141dd2e0a.js": "0b82d4899a6642415adca0a868369affef69247a",
+    "https://admtz.github.io/carritopwa/manifest.webmanifest": "0cffa6de50c71eda3ed48884c4a15f60e078ca3e",
+    "https://admtz.github.io/carritopwa/polyfills.c6a2c061dcf0143f4989.js": "61fe7244e737a79235f82ba7ce5cca7f3a800849",
+    "https://admtz.github.io/carritopwa/runtime.4d92569d8e7453d1a267.js": "1ab8e424826fec9ba2e8e2d046ad3ffd73faf969",
+    "https://admtz.github.io/carritopwa/styles.11cf6b3a7e166a1bde8d.css": "afdfbd6fa0a454418a996df3f3117579c16d465e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
